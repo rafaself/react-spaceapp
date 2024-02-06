@@ -1,0 +1,22 @@
+export const tags = [
+    {
+            "id": 0,
+            "title": "Todas"
+            },
+    {
+            "id": 1,
+            "title": "Estrelas"
+        },
+    {
+            "id": 2,
+            "title": "Galáxias"
+        },
+    {
+            "id": 3,
+            "title": "Luas"
+        },
+    {
+            "id": 4,
+            "title": "Nebulosas"
+        }
+]
